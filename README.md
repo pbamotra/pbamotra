@@ -3,7 +3,7 @@
 <!--
 **pbamotra/pbamotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I’m a computer vision research engineer at Coupang US working on problems ranging from extreme label image classification to street-to-shop visual search. 
+I’m a computer vision research engineer at Autodesk working on cool ML problems.
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pbamotra/)
 [<img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />](https://www.pankesh.com/static/feed.1474259b5c.xml)
